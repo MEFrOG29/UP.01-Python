@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Saves\\other\\3_2\\\u0423\u041F.01 Python\\pr17\\C#\\libraryPR17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4697A81B-8705-41F1-A561-B8383A4465E9}|libraryPR17\\libraryPR17.csproj|d:\\saves\\other\\3_2\\\u0443\u043F.01 python\\pr17\\c#\\librarypr17\\librarypr17\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4697A81B-8705-41F1-A561-B8383A4465E9}|libraryPR17\\libraryPR17.csproj|solutionrelative:librarypr17\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Saves\\other\\3_2\\\u0423\u041F.01 Python\\pr17\\C#\\libraryPR17\\libraryPR17\\Class1.cs",
+              "RelativeDocumentMoniker": "libraryPR17\\Class1.cs",
+              "ToolTip": "D:\\Saves\\other\\3_2\\\u0423\u041F.01 Python\\pr17\\C#\\libraryPR17\\libraryPR17\\Class1.cs",
+              "RelativeToolTip": "libraryPR17\\Class1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T23:40:13.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

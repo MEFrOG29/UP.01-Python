@@ -1,0 +1,6 @@
+D:\Saves\other\3_2\УП.01 Python\pr17\C#\libraryPR17\libraryPR17\bin\Debug\libraryPR17.dll
+D:\Saves\other\3_2\УП.01 Python\pr17\C#\libraryPR17\libraryPR17\bin\Debug\libraryPR17.pdb
+D:\Saves\other\3_2\УП.01 Python\pr17\C#\libraryPR17\libraryPR17\obj\Debug\libraryPR17.csproj.AssemblyReference.cache
+D:\Saves\other\3_2\УП.01 Python\pr17\C#\libraryPR17\libraryPR17\obj\Debug\libraryPR17.csproj.CoreCompileInputs.cache
+D:\Saves\other\3_2\УП.01 Python\pr17\C#\libraryPR17\libraryPR17\obj\Debug\libraryPR17.dll
+D:\Saves\other\3_2\УП.01 Python\pr17\C#\libraryPR17\libraryPR17\obj\Debug\libraryPR17.pdb
